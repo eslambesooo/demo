@@ -2,7 +2,9 @@
   "phase1": [
     { "id": 1, "title": "phase 1","data":30},
     { "id": 2, "title": "phase 2","data":40 },
-    { "id": 3, "title": "Post 3" ,"data":20}
+    { "id": 3, "title": "Post 3" ,"data":15},
+    { "id": 3, "title": "Post 3" ,"data":35},
+    { "id": 3, "title": "Post 3" ,"data":25}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
